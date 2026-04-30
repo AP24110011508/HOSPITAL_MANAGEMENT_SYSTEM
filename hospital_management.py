@@ -1,16 +1,3 @@
-"""
-Hospital Patient Management System - FULLY TESTED VERSION
-Complete implementation using multiple data structures
-- Priority Queue for emergency cases
-- Stack for medical history  
-- Queue for routine checkups
-- Hash Maps for quick lookup
-- Custom Linked List for symptoms
-- Arrays for statistics
-
-NO ERRORS - Guaranteed to run!
-"""
-
 import heapq
 from collections import deque
 from datetime import datetime
