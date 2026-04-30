@@ -73,7 +73,9 @@ This project was developed as part of the **Data Structures and Algorithms** cou
 ---
 
 project report
-[Hospital_Management_System_Report.docx](https://github.com/user-attachments/files/27256189/Hospital_Management_System_Report.docx)
+[Hospital_Management_System_Report (1).docx](https://github.com/user-attachments/files/27257053/Hospital_Management_System_Report.1.docx)
+
+
 
 
 ## 🗂️ Project Structure
