@@ -20,6 +20,7 @@ This project was developed as part of the **Data Structures and Algorithms** cou
 | Charan Koya | AP24110011508 |
 | Ranjith Vijay Raavi | AP24110011505 |
 | Sai Chaturvedi Nallana | AP24110011463 |
+| b.shashank | AP24110011496 |
 
 ---
 
